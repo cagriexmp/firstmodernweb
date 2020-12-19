@@ -1,0 +1,262 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.a-progammer {
+  font-size: 2.5rem;
+}
+
+h1 {
+  color: #433d3c;
+  font-size: 5.625rem;
+  position: relative;
+  font-family: 'Nothing You Could Do', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  padding-bottom: 10px;
+  font-weight: normal;
+  font-size: 2.5rem;
+  color: #433d3c;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+.profile {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+
+.top-div {
+  position: relative;
+  margin: 0;
+  background-color: #f1ae89;
+}
+
+.student {
+  text-decoration: underline;
+}
+
+.cloudb {
+  position: absolute;
+  top: 200px;
+  left: 350px;
+}
+
+.cloud1 {
+  position: relative;
+  left: 350px;
+  top: 25px;
+}
+
+.python-logo {
+  display: inline-block;
+  width: 100px
+}
+
+.music-note {
+  display: inline-block;
+  width: 100px
+}
+
+.html-logo {
+  display: inline-block;
+  width: 100px
+}
+
+.css-logo {
+  display: inline-block;
+  width: 100px
+}
+
+.tr-logo {
+  display: inline-block;
+  width: 100px
+}
+
+.en-logo {
+  display: inline-block;
+  width: 100px;
+  position: relative;
+  bottom: 8px;
+}
+
+.game-console {
+  display: inline-block;
+  width: 100px;
+  position: relative;
+  left: 10px;
+}
+
+.netflix-logo {
+  display: inline-block;
+  width: 100px;
+}
+
+.profile-boy {
+
+  padding-top: 30px;
+  width: 25%;
+  float: left;
+}
+
+.hello-class {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.bird-gif {
+  position: absolute;
+  width: 50px;
+  top: 220px;
+  left: 150px;
+}
+
+.bird-gif1 {
+  position: absolute;
+  width: 50px;
+  left: 200px;
+  top: 150px;
+}
+
+.bird-gif2 {
+  position: absolute;
+  width: 50px;
+  left: 300px;
+  top: 200px;
+}
+
+.bird-gif3 {
+  position: absolute;
+  width: 50px;
+  left: 250px;
+  top: 250px;margin-bottom: 20px;
+}
+
+.bird-gifs {
+  display: inline-block;
+  position: absolute;
+  left: 150px;
+  top: 30px;
+}
+
+.deneme {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  bottom: 450px;
+}
+
+.sun {
+  height: 200px;
+  top: 20px;
+  position: absolute;
+}
+
+
+
+.mountain {
+  position: relative;
+  top: 6px;
+}
+
+hr {
+  border-style: dotted;
+  border-color: lightgrey;
+  border-width: 5px;
+  height: 0px;
+  border-bottom-width: 0px;
+  width: 40px;
+}
+
+.btn {
+  display: block;
+  margin-bottom: 80px;
+  margin-top: 40px;
+  background: #374454;
+  background-image: -webkit-linear-gradient(top, #374454, #65F1FF);
+  background-image: -moz-linear-gradient(top, #374454, #65F1FF);
+  background-image: -ms-linear-gradient(top, #374454, #65F1FF);
+  background-image: -o-linear-gradient(top, #374454, #65F1FF);
+  background-image: -webkit-gradient(to bottom, #374454, #65F1FF);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 50px;
+  line-height: 50px;
+  color: #FFFFFF;
+  font-family: 'Poppins', sans-serif;
+  width: 200px;
+  font-size: 19px;
+  font-weight: 500;
+  padding: 15px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.bottom-container {
+  background-color: #f1ae89;
+  padding: 50px 0 20px;
+}
+
+.btn:hover {
+   border: solid #AD7C6F 0;
+   background: #705B5B;
+   background-image: -webkit-linear-gradient(top, #705B5B, #4082D7);
+   background-image: -moz-linear-gradient(top, #705B5B, #4082D7);
+   background-image: -ms-linear-gradient(top, #705B5B, #4082D7);
+   background-image: -o-linear-gradient(top, #705B5B, #4082D7);
+   background-image: -webkit-gradient(to bottom, #705B5B, #4082D7);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.footer-link {
+  color: lightgrey;
+  position: relative;
+  top: 20px;
+  margin-left: 20px;
+
+
+}
+.copyright {
+  color: black;
+  font-size: 15px;
+  margin-top: 60px;
+}
+
+
+.p-b {
+  margin: auto;
+  width: 40%;
+
+}
+.p-b1 {
+  margin: auto;
+  width: 40%;
+  margin-bottom: 20px;
+
+}
+p {
+  line-height: 2;
+}
